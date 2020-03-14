@@ -76,13 +76,6 @@ def dos2():
 
 
 def usage():
-	          ||        ||           ||       ||       //\\      ||\\      //||       //\\
-	        ||        ||           ||       ||      //  \\     || \\    // ||      //  \\
-	       ||        ||           ||       ||     //    \\    ||  \\  //  ||     //    \\
-	      ||        || <<<<>>>>  ||=======||    //======\\   ||   \\//   ||    //======\\
-	     ||  //\\  ||           ||       ||   //        \\  ||          ||   //        \\
-	    || //  \\ ||           ||       ||  //          \\ ||          ||  //          \\
-	   ||//    \\||           ||       || //            \\||          || //            \\
 	print (''' \033[92m	Wolf-Punch Hammer Dos Script v.1 https://markotricks.blogspot.com/
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
