@@ -79,7 +79,7 @@ def usage():
 	print (''' \033[92m	Wolf-Punch Hammer Dos Script v.1 https://markotricks.blogspot.com/
 	It is the end user's responsibility to obey all applicable laws.
 	It is just for server testing script. Your ip is visible. \n
-	usage : python3 hammer.py [-s] [-p] [-t]
+	usage : python3 wolfpunch.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
 	-p : port default 80
